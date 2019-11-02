@@ -12,6 +12,8 @@ Using torque control and feedback position capabilities, learning scenarios by d
 
 Power supply from 8 to 12V.
 
+![Stepofy V1](https://github.com/Smartdatalog/stepofy-hardware/blob/master/preview.jpg "Stepofy V1")
+
 # Licence
 Licence Comon Creative CC BY-NC-SA 4.0
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
