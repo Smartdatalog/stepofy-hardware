@@ -14,6 +14,12 @@ Power supply from 8 to 12V.
 
 ![Stepofy V1](https://github.com/Smartdatalog/stepofy-hardware/blob/master/preview.jpg "Stepofy V1")
 
+![Stepofy V1](https://github.com/Smartdatalog/stepofy-hardware/blob/master/v1/stepofy%20v1%20with%20motor.jpg "Stepofy with NEMA17")
+
+# Current status
+V1 prototype is under test. Schematic is available. 
+See [V1 details](https://github.com/Smartdatalog/stepofy-hardware/tree/master/v1 "V1")
+
 # Licence
 Licence Comon Creative CC BY-NC-SA 4.0
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
